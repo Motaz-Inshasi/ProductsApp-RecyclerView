@@ -1,0 +1,9 @@
+<resources>
+    <color name="blue">#1F7BE0</color>
+    <color name="background">#F4F5F7</color>
+    <color name="white">#FFFFFF</color>
+    <color name="text_primary">#222222</color>
+    <color name="text_secondary">#9A9A9A</color>
+    <color name="divider">#E3E3E3</color>
+    <color name="icon_dark">#333333</color>
+</resources>

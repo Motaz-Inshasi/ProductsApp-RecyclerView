@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Products App</string>
+    <string name="search_hint">Search Product</string>
+    <string name="most_popular">Most Popular</string>
+    <string name="filter">Filter</string>
+    <string name="back">Back</string>
+    <string name="search">Search</string>
+    <string name="grid_view">Grid view</string>
+    <string name="add_to_cart">Add to cart</string>
+</resources>
