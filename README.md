@@ -26,6 +26,11 @@ Open the project in Android Studio and press **Run**, or:
 - Android Gradle Plugin 9.2.1, Gradle 9.4.1
 
 ## Screenshots
-See the `screenshots/` folder.
+Running on an Android 15 emulator (Pixel 6):
+
+<p>
+  <img src="screenshots/screenshot_1.png" width="300" alt="Product grid" />
+  <img src="screenshots/screenshot_2.png" width="300" alt="Product grid scrolled" />
+</p>
 
 By: Motaz Inshasi
